@@ -1,0 +1,12 @@
+title: Meu Site no GitHub Pages
+description: Meu site pessoal usando Jekyll
+theme: minima
+
+# Informações pessoais (opcional)
+author:
+  name: Seu Nome
+  email: seuemail@example.com
+
+# Configurações opcionais
+markdown: kramdown
+highlighter: rouge
