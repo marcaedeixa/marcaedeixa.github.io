@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Salvar
+title: Salvar (Ctrl+S)
 parent: Ferramentas
 nav_order: 3
 ---
