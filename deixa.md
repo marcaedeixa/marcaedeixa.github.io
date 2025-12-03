@@ -1,1 +1,0 @@
-# Deixa atual e seguinte
