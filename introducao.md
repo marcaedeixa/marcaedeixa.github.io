@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introdução ao **marca e deixa**
+title: Introdução
 nav_order: 2
 ---
 
