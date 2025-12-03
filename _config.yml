@@ -1,12 +1,18 @@
 title: Marca e Deixa
 description: Manual do usuário
-theme: just-the-docs
+
+# Use the Just the Docs theme
+remote_theme: just-the-docs/just-the-docs
+
+# Required for remote themes
+plugins:
+  - jekyll-remote-theme
 
 # Informações pessoais (opcional)
 author:
   name: Carolina Peçaibes
   email: seuemail@example.com
 
-# Configurações opcionais
+# Optional configs
 markdown: kramdown
 highlighter: rouge
