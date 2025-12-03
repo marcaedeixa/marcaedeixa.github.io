@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Criando cenas
+title: Editando cenas
 nav_order: 6
 has_children: true
 ---
 
-# Criando cenas
+# Editando cenas
 
 - Incluindo nova cena
 - Renomear
