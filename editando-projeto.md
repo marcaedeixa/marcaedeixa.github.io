@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Criando o projeto
+title: Editando o projeto
 nav_order: 4
 ---
 
