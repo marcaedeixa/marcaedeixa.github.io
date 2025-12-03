@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Características do palco
-parent: Criando o palco
+parent: Editando o palco
 nav_order: 1
 ---
 
