@@ -14,7 +14,7 @@ Para criar um novo projeto:
 5. Selecione **Criar Projeto**
 
 # Excluindo o projeto
-Para criar um projeto existente:
+Para excluir um projeto existente:
 1. Faça login na plataforma
 2. Acesse o Dashboard
 3. Selecione **Excluir** no projeto que você deseja excluir
