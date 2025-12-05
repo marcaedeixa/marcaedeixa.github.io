@@ -7,7 +7,7 @@ nav_order: 3
 
 # Ator
 
-O ator é representado por um círculo com uma sigla alfanumérica única de dois caracteres. O atores devem ser cadastrados em cada projeto que aparecerão. Não é permitido colocar o mesmo ator mais de uma vez em uma mesma cena nem que dois atores tenham a mesma sigla. É permitido que mais de um ator seja representado pela mesma cor.
+O ator é representado por um círculo com uma sigla alfanumérica única de dois caracteres. Os atores devem ser cadastrados em cada projeto que aparecerão. Não é permitido colocar o mesmo ator mais de uma vez em uma mesma cena nem que dois atores tenham a mesma sigla. É permitido que mais de um ator seja representado pela mesma cor.
 
 ## Cadastrar ator no projeto
 1. Selecione **Cadastrar ator** na barra superior do projeto
@@ -19,7 +19,7 @@ O ator é representado por um círculo com uma sigla alfanumérica única de doi
 1. Selecione o ícone dos atores <img src="/assets/atores.png" width="18"> do projeto na barra esquerda
 2. Selecione o ícone da lixeira vermelha <img src="/assets/lixeiraator.png" width="18"> correspondente ao ator que deseja excluir
 3. Selecione **OK**
-4. 
+
 Obs.: Esta ação excluirá o ator de todas as cenas em que ele aparece.
 
 ## Incluir ator na cena
