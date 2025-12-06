@@ -16,13 +16,14 @@ As seguintes formas podem ser utilizadas para a criação do palco:
 
 Caso queira apagar uma forma previamente incluída, isso pode ser feito de quatro maneiras:
 
-<p class="mr-5">
+<p style="padding-right: 120px;">
 Opção 1: Selecione a ferramenta da borracha <img src="/assets/borracha.png" width="18"> e use-a na forma desejada no canvas
-</p>
-
 
 Opção 2: Selecione a forma desejada no canvas com o botão esquerdo e a seguir selecione a lixeira <img src="/assets/lixeira.png" width="18">
 
 Opção 3: Selecione a forma desejada no canvas com o botão esquerdo e aperte `Delete`
 
 Opção 4: Selecione a ferramenta de camadas <img src="/assets/camadas.png" width="18"> na barra direita e selecione a forma desejada na seção **Camadas**. A seguir, selecione a lixeira <img src="/assets/lixeira.png" width="18"> ou aperte `Delete`
+</p>
+
+
