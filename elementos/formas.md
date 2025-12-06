@@ -26,10 +26,10 @@ Para mesclar formas deve-se selecionar as formas desejadas clicando com o botão
 ### União
 A ação de união mescla as formas selecionadas eliminando os contornos presentes na interseção e mantendo a cor do elemento na camada de trás.
 
-<img src="/assets/formaexemplo1.png" width="18">
+<img src="/assets/formaexemplo1.png" width="166">
 
 Antes
 
-<img src="/assets/formaexemplouniao.png" width="18">
+<img src="/assets/formaexemplouniao.png" width="166">
 
 Depois
