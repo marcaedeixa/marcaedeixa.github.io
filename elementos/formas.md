@@ -15,16 +15,14 @@ As seguintes formas podem ser utilizadas na criação do projeto:
 
 ## Excluir forma
 Caso queira apagar uma forma previamente incluída, isso pode ser feito de quatro maneiras:
-<dl>
-  <dt>Opção 1</dt>
-  <dd>Selecione a ferramenta da borracha <img src="/assets/borracha.png" width="18"> e use-a na forma desejada no canvas</dd>
-  <dt>Opção 2</dt>
-  <dd>Selecione a forma desejada no canvas com o botão esquerdo e a seguir selecione a lixeira <img src="/assets/lixeira.png" width="18"></dd>
-  <dt>Opção 3</dt>
-  <dd>Selecione a forma desejada no canvas com o botão esquerdo e aperte `Delete`</dd>
-  <dt>Opção 4</dt>
-  <dd>Selecione a ferramenta de camadas <img src="/assets/camadas.png" width="18"> na barra direita e selecione a forma desejada na seção **Camadas**. A seguir, selecione a lixeira <img src="/assets/lixeira.png" width="18"> ou aperte `Delete`</dd>
-</dl>
+
+**Opção 1 -** Selecione a ferramenta da borracha <img src="/assets/borracha.png" width="18"> e use-a na forma desejada no canvas
+
+**Opção 2 -** Selecione a forma desejada no canvas com o botão esquerdo e a seguir selecione a lixeira <img src="/assets/lixeira.png" width="18">
+
+**Opção 3 -** Selecione a forma desejada no canvas com o botão esquerdo e aperte `Delete`
+
+**Opção 4 -** Selecione a ferramenta de camadas <img src="/assets/camadas.png" width="18"> na barra direita e selecione a forma desejada na seção **Camadas**. A seguir, selecione a lixeira <img src="/assets/lixeira.png" width="18"> ou aperte `Delete`
 
 ## Mesclar formas
 Para mesclar formas deve-se selecionar as formas desejadas clicando com o botão esquerdo do mouse no canvas e arrastando-o sobre elas. Depois, deve-se selecionar uma das ações disponíveis na barra superior do projeto: União <img src="/assets/uniao.png" width="18">, Subtração <img src="/assets/subtracao.png" width="18">, Interseção  <img src="/assets/intersecao.png" width="18"> ou Exclusão <img src="/assets/exclusao.png" width="18">
