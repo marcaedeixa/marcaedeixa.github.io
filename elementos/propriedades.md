@@ -29,6 +29,14 @@ Os elementos reta e seta podem ter seu tracejado modificado.
 2. Selecione o ícone de engrenagem <img src="/assets/engrenagem.png" width="18">
 3. Escolha a opção desejada na seção **Tipo de Tracejado**
 
+## Espessura
+Todos os elementos podem ter a espessura de sua borda modificada.
+
+### Modificando a espessura do elemento
+1. Selecione o elemento
+2. Selecione o ícone de engrenagem <img src="/assets/engrenagem.png" width="18">
+3. Escolha a espessura na barra deslizante correspondente.
+
 ## Tamanho
 Todos os elementos (exceto o desenho com a caneta) podem ter seu tamanho modificado. 
 
@@ -45,8 +53,9 @@ Caso queira modificar a posição do elemento, isso pode ser feito de duas forma
 - Selecione o elemento com o botão esquerdo do mouse e arraste-o para a posição desejada
 - Selecione o elemento, selecione o ícone de engrenagem <img src="/assets/engrenagem.png" width="18"> e especifique seu sua posição nas coordenadas **X** (posição horizontal) e **Y** (posição vertical)
 
+## Alinhamento
 
 
-- Alinhamento
-- Distribuição
-- Agrupamento
+
+## Distribuição
+## Agrupamento
