@@ -11,3 +11,5 @@ nav_order: 6
 - Tamanho
 - Posição
 - Alinhamento
+- Distribuição
+- Agrupamento
