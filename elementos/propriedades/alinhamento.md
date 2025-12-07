@@ -74,6 +74,8 @@ O alinhamento vartical à base <img src="/assets/alinhamentomeio.png" width="18"
 
 <img src="/assets/alinhamentoexemplo1.png">
 
+## Distribuição
+
 Antes
 
 <img src="/assets/alinhamentoexemplo1meio.png">
