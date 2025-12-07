@@ -35,7 +35,9 @@ Caso queira apagar uma caixa de texto, isso pode ser feito de quatro maneiras:
 
 ## Editar conteúdo da caixa de texto
 O conteúdo da caixa de texto pode ser modificado de duas formas:
-**Opção 1 -** Clique duas vezes com o botão direito do mouse na caixa de texto e edite o texto
+
+**Opção 1 -** Clique duas vezes com o botão direito do mouse na caixa de texto e edite o text
+
 **Opção 2 -** Selecione a caixa de texto, selecione o ícone de engrenagem <img src="/assets/engrenagem.png" width="18"> e edite o texto na seção **Texto**
 
 ## Editar tamanho da fonte do texto
