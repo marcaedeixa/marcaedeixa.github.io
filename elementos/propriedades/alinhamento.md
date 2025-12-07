@@ -24,65 +24,41 @@ O alinhamento horizontal à esquerda <img src="/assets/alinhamentoesquerda.png" 
 |:--------------------------------------------|:----------------------------------------------------|
 | <img src="/assets/alinhamentoexemplo1.png"> | <img src="/assets/alinhamentoexemplo1esquerda.png"> |
 
-
-<img src="/assets/alinhamentoexemplo1.png">
-
-Antes
-
-<img src="/assets/alinhamentoexemplo1esquerda.png">
-
-Depois
-
 O alinhamento horizontal à direita <img src="/assets/alinhamentodireita.png" width="18"> alinha todos os elementos com o lado direito do elemento na extremidade direita.
 
-<img src="/assets/alinhamentoexemplo1.png">
-
-Antes
-
-<img src="/assets/alinhamentoexemplo1direita.png">
-
-Depois
+| Antes                                       | Depois                                             |
+|:--------------------------------------------|:---------------------------------------------------|
+| <img src="/assets/alinhamentoexemplo1.png"> | <img src="/assets/alinhamentoexemplo1direita.png"> |
 
 O alinhamento horizontal ao centro <img src="/assets/alinhamentocentro.png" width="18"> alinha todos os elementos ao centro do conjunto.
 
-<img src="/assets/alinhamentoexemplo1.png">
-
-Antes
-
-<img src="/assets/alinhamentoexemplo1centro.png">
-
-Depois
+| Antes                                       | Depois                                            |
+|:--------------------------------------------|:--------------------------------------------------|
+| <img src="/assets/alinhamentoexemplo1.png"> | <img src="/assets/alinhamentoexemplo1centro.png"> |
 
 ## Alinhamento vertical
 
 O alinhamento vartical ao topo <img src="/assets/alinhamentotopo.png" width="18"> alinha todos os elementos com o topo do elemento na extremidade superior.
 
-<img src="/assets/alinhamentoexemplo1.png">
-
-Antes
-
-<img src="/assets/alinhamentoexemplo1topo.png">
-
-Depois
+| Antes                                       | Depois                                          |
+|:--------------------------------------------|:------------------------------------------------|
+| <img src="/assets/alinhamentoexemplo1.png"> | <img src="/assets/alinhamentoexemplo1topo.png"> |
 
 O alinhamento vartical ao meio <img src="/assets/alinhamentomeio.png" width="18"> alinha todos os elementos ao meio do conjunto.
 
-<img src="/assets/alinhamentoexemplo1.png">
-
-Antes
-
-<img src="/assets/alinhamentoexemplo1meio.png">
-
-Depois
+| Antes                                       | Depois                                          |
+|:--------------------------------------------|:------------------------------------------------|
+| <img src="/assets/alinhamentoexemplo1.png"> | <img src="/assets/alinhamentoexemplo1meio.png"> |
 
 O alinhamento vartical à base <img src="/assets/alinhamentomeio.png" width="18"> alinha todos os elementos com a base do elemento na extremidade inferior.
 
-<img src="/assets/alinhamentoexemplo1.png">
+| Antes                                       | Depois                                          |
+|:--------------------------------------------|:------------------------------------------------|
+| <img src="/assets/alinhamentoexemplo1.png"> | <img src="/assets/alinhamentoexemplo1base.png"> |
+
 
 ## Distribuição
 
 Antes
-
-<img src="/assets/alinhamentoexemplo1meio.png">
 
 Depois
