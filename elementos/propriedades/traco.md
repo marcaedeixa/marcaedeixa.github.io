@@ -6,6 +6,14 @@ nav_order: 2
 ---
 
 # Traço
+{: .no_toc }
+
+## Sumário
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 Os elementos reta e seta podem ter seu tracejado modificado.
 
 ## Modificando o tracejado do elemento
