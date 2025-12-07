@@ -50,7 +50,7 @@ O alinhamento vartical ao meio <img src="/assets/alinhamentomeio.png" width="18"
 |:--------------------------------------------|:------------------------------------------------|
 | <img src="/assets/alinhamentoexemplo1.png"> | <img src="/assets/alinhamentoexemplo1meio.png"> |
 
-O alinhamento vartical à base <img src="/assets/alinhamentomeio.png" width="18"> alinha todos os elementos com a base do elemento na extremidade inferior.
+O alinhamento vartical à base <img src="/assets/alinhamentobase.png" width="18"> alinha todos os elementos com a base do elemento na extremidade inferior.
 
 | Antes                                       | Depois                                          |
 |:--------------------------------------------|:------------------------------------------------|
@@ -59,6 +59,14 @@ O alinhamento vartical à base <img src="/assets/alinhamentomeio.png" width="18"
 
 ## Distribuição
 
-Antes
+A distribuição horizontal <img src="/assets/distribuicaohorizontal.png" width="18"> mantém a posição dos elementos nas extremidades esquerda e direita do conjunto e distribui os demais elementos de forma equidistante horizontalmente.
 
-Depois
+| Antes                                       | Depois                                                     |
+|:--------------------------------------------|:-----------------------------------------------------------|
+| <img src="/assets/alinhamentoexemplo2.png"> | <img src="/assets/alinhamentoexemplo2distrhorizontal.png"> |
+
+A distribuição vertical <img src="/assets/distribuicaovertical.png" width="18"> mantém a posição dos elementos nas extremidades superior e inferior do conjunto e distribui os demais elementos de forma equidistante verticalmente.
+
+| Antes                                       | Depois                                                     |
+|:--------------------------------------------|:-----------------------------------------------------------|
+| <img src="/assets/alinhamentoexemplo2.png"> | <img src="/assets/alinhamentoexemplo2distrvertical.png"> |
