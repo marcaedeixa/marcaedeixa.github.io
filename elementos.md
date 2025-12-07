@@ -11,7 +11,7 @@ has_toc: false
 ## Sumário
 {: .no_toc .text-delta }
 
-1. [Canvas](https://marcaedeixa.github.io/elementos/canvas.htmll)
+1. [Canvas](https://marcaedeixa.github.io/elementos/canvas.html)
 2. [Formas](https://marcaedeixa.github.io/elementos/formas.html)
 3. [Ator](https://marcaedeixa.github.io/elementos/ator.html)
 4. [Objeto](https://marcaedeixa.github.io/elementos/objeto.html)
