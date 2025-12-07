@@ -16,7 +16,7 @@ nav_order: 2
 
 Os elementos reta e seta podem ter seu tracejado modificado.
 
-## Modificando o tracejado do elemento
+## Modificar o tracejado do elemento
 1. Selecione o elemento
 2. Selecione o ícone de engrenagem <img src="/assets/engrenagem.png" width="18">
 3. Escolha a opção desejada na seção **Tipo de Tracejado**
