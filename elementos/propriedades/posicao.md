@@ -6,6 +6,14 @@ nav_order: 5
 ---
 
 # Posição
+{: .no_toc }
+
+## Sumário
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 Todos os elementos (exceto o desenho com a caneta) podem ter sua posição modificada.
 
 ## Modificando a posição do elemento
