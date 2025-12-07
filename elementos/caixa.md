@@ -17,15 +17,19 @@ nav_order: 5
 
 ## Excluir caixa de texto
 Caso queira apagar uma caixa de texto, isso pode ser feito de quatro maneiras:
-- Selecione a ferramenta da borracha <img src="/assets/borracha.png" width="18"> e use-a na caixa de texto desejada no canvas
-- Selecione a caixa de texto desejada no canvas com o botão esquerdo e a seguir selecione a lixeira <img src="/assets/lixeira.png" width="18">
-- Selecione a caixa de texto desejada no canvas com o botão esquerdo e aperte `Delete`
-- Selecione a ferramenta de camadas <img src="/assets/camadas.png" width="18"> na barra direita e selecione a caixa de texto desejada na seção **Camadas**. A seguir, selecione a lixeira <img src="/assets/lixeira.png" width="18"> ou aperte `Delete`
+
+**Opção 1 -** Selecione a ferramenta da borracha <img src="/assets/borracha.png" width="18"> e use-a na caixa de texto desejada no canvas
+
+**Opção 2 -** Selecione a caixa de texto desejada no canvas com o botão esquerdo e a seguir selecione a lixeira <img src="/assets/lixeira.png" width="18">
+
+**Opção 3 -** Selecione a caixa de texto desejada no canvas com o botão esquerdo e aperte `Delete`
+
+**Opção 4 -** Selecione a ferramenta de camadas <img src="/assets/camadas.png" width="18"> na barra direita e selecione a caixa de texto desejada na seção **Camadas**. A seguir, selecione a lixeira <img src="/assets/lixeira.png" width="18"> ou aperte `Delete`
 
 ## Editar conteúdo da caixa de texto
 O conteúdo da caixa de texto pode ser modificado de duas formas:
-- Clique duas vezes com o botão direito do mouse na caixa de texto e edite o texto
-- Selecione a caixa de texto, selecione o ícone de engrenagem <img src="/assets/engrenagem.png" width="18"> e edite o texto na seção **Texto**
+**Opção 1 -** Clique duas vezes com o botão direito do mouse na caixa de texto e edite o texto
+**Opção 2 -** Selecione a caixa de texto, selecione o ícone de engrenagem <img src="/assets/engrenagem.png" width="18"> e edite o texto na seção **Texto**
 
 ## Editar tamanho da fonte do texto
 1. Selecione a caixa de texto
