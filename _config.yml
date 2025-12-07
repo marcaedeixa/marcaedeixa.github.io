@@ -1,4 +1,4 @@
-title: "/assets/logo.png"
+logo: <img src="/assets/logo.png" width="30">
 description: Manual do usuário
 
 # Use the Just the Docs theme
