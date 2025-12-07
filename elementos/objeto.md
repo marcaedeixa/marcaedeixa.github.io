@@ -6,6 +6,14 @@ nav_order: 4
 ---
 
 # Objeto
+{: .no_toc }
+
+## Sumário
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 O objeto é representado por um triângulo, quadrado ou hexágono com uma sigla alfanumérica única de dois caracteres. Os objetos devem ser cadastrados em cada projeto que aparecerão. Não é permitido colocar o mesmo objeto mais de uma vez em uma mesma cena nem que dois objetos tenham a mesma sigla. É permitido que mais de um objeto seja representado pela mesma cor.
 
 ## Cadastrar objeto no projeto
