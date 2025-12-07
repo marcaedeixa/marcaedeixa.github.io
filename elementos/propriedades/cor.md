@@ -6,6 +6,14 @@ nav_order: 1
 ---
 
 # Cor
+{: .no_toc }
+
+## Sumário
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 Todos os elementos podem ter sua cor modificada.
 
 ## Modificando a cor do elemento
