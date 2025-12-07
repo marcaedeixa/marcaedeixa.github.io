@@ -36,28 +36,28 @@ Caso queira apagar uma forma previamente incluída, isso pode ser feito de quatr
 Para mesclar formas deve-se selecionar as formas desejadas clicando com o botão esquerdo do mouse no canvas e arrastando-o sobre elas. Depois, deve-se selecionar uma das ações disponíveis na barra superior do projeto: União <img src="/assets/uniao.png" width="18">, Subtração <img src="/assets/subtracao.png" width="18">, Interseção  <img src="/assets/intersecao.png" width="18"> ou Exclusão <img src="/assets/exclusao.png" width="18">
 
 ### União
-A ação de união mescla as formas selecionadas eliminando os contornos presentes na interseção e mantendo a cor do elemento na camada de trás. Isso pode ser feito com múltiplas formas.
+A ação de união <img src="/assets/uniao.png" width="18"> mescla as formas selecionadas eliminando os contornos presentes na interseção e mantendo a cor do elemento na camada de trás. Isso pode ser feito com múltiplas formas.
 
 | Antes                                             | Depois                                                |
 |:--------------------------------------------------|:------------------------------------------------------|
 | <img src="/assets/formaexemplo1.png" width="166"> | <img src="/assets/formaexemplouniao.png" width="166"> |
 
 ### Subtração
-A ação de subtração remove a forma da camada da frente e a interseção desta com a outra forma. Isso pode ser feito selecionando apenas duas formas por vez.
+A ação de subtração <img src="/assets/subtracao.png" width="18"> remove a forma da camada da frente e a interseção desta com a outra forma. Isso pode ser feito selecionando apenas duas formas por vez.
 
 | Antes                                             | Depois                                                    |
 |:--------------------------------------------------|:----------------------------------------------------------|
 | <img src="/assets/formaexemplo1.png" width="166"> | <img src="/assets/formaexemplosubtracao.png" width="166"> |
 
 ### Interseção
-A ação de interseção mantém apenas a interseção das duas formas na cor da forma da camada de trás. Isso pode ser feito selecionando apenas duas formas por vez.
+A ação de interseção <img src="/assets/intersecao.png" width="18"> mantém apenas a interseção das duas formas na cor da forma da camada de trás. Isso pode ser feito selecionando apenas duas formas por vez.
 
 | Antes                                             | Depois                                                     |
 |:--------------------------------------------------|:-----------------------------------------------------------|
 | <img src="/assets/formaexemplo1.png" width="166"> | <img src="/assets/formaexemplointersecao.png" width="166"> |
 
 ### Exclusão
-A ação de interseção exclui apenas a interseção das duas formas. Isso pode ser feito selecionando apenas duas formas por vez.
+A ação de interseção <img src="/assets/exclusao.png" width="18"> exclui apenas a interseção das duas formas. Isso pode ser feito selecionando apenas duas formas por vez.
 
 | Antes                                             | Depois           |
 |:--------------------------------------------------|:-----------------|
