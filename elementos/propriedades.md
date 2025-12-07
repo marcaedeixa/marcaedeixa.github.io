@@ -4,59 +4,16 @@ title: Propriedades dos elementos
 parent: Elementos
 has_children: true
 nav_order: 6
+has_toc: false
 ---
 
 # Propriedades dos elementos
 
-## Cor
-Todos os elementos podem ter sua cor modificada.
-
-### Modificando a cor do elemento
-1. Selecione o elemento
-2. Selecione o ícone de paleta <img src="/assets/paleta.png" width="18">
-3. Selecione a cor desejada de contorno e preenchimento ou especifique o código HEX da cor desejada
-Obs.: É possível escolher a opção de cor transparente selecionando a opção **Sem preenchimento**
-
-### Modificando a opacidade da cor do elemento
-1. Selecione o elemento
-2. Selecione o ícone de engrenagem <img src="/assets/engrenagem.png" width="18">
-3. Modifique a opacidade na barra deslizante correspondente.
-
-## Traço
-Os elementos reta e seta podem ter seu tracejado modificado.
-
-### Modificando o tracejado do elemento
-1. Selecione o elemento
-2. Selecione o ícone de engrenagem <img src="/assets/engrenagem.png" width="18">
-3. Escolha a opção desejada na seção **Tipo de Tracejado**
-
-## Espessura
-Todos os elementos podem ter a espessura de sua borda modificada.
-
-### Modificando a espessura do elemento
-1. Selecione o elemento
-2. Selecione o ícone de engrenagem <img src="/assets/engrenagem.png" width="18">
-3. Escolha a espessura na barra deslizante correspondente.
-
-## Tamanho
-Todos os elementos (exceto o desenho com a caneta) podem ter seu tamanho modificado. 
-
-### Modificando o tamanho do elemento
-Caso queira modificar o tamanho do elemento, isso pode ser feito de duas formas:
-- Selecione o elemento e arraste os pontos referentes às suas bordas para redimensioná-lo
-- Selecione o elemento, selecione o ícone de engrenagem <img src="/assets/engrenagem.png" width="18"> e especifique seu tamanho nas seções **Largura** e **Altura** (unidade de medida _pt_)
-
-## Posição
-Todos os elementos (exceto o desenho com a caneta) podem ter sua posição modificada.
-
-### Modificando a posição do elemento
-Caso queira modificar a posição do elemento, isso pode ser feito de duas formas:
-- Selecione o elemento com o botão esquerdo do mouse e arraste-o para a posição desejada
-- Selecione o elemento, selecione o ícone de engrenagem <img src="/assets/engrenagem.png" width="18"> e especifique seu sua posição nas coordenadas **X** (posição horizontal) e **Y** (posição vertical)
-
-## Alinhamento
-
-
-
-## Distribuição
-## Agrupamento
+a. [Cor](https://marcaedeixa.github.io/elementos/propriedades/cor.html)
+b. [Traço](https://marcaedeixa.github.io/elementos/propriedades/traco.html)
+c. [Espessura](https://marcaedeixa.github.io/elementos/propriedades/espessura.html)
+d. [Tamanho](https://marcaedeixa.github.io/elementos/propriedades/tamanho.html)
+e. [Posição](https://marcaedeixa.github.io/elementos/propriedades/posicao.html)
+f. [Alinhamento](https://marcaedeixa.github.io/elementos/propriedades/alinhamento.html)
+g. [Distribuição](https://marcaedeixa.github.io/elementos/propriedades/distribuicao.html)
+h. Agrupamento
