@@ -6,6 +6,13 @@ nav_order: 5
 ---
 
 # Caixa de texto
+{: .no_toc }
+
+## Sumário
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Incluir caixa de texto
 1. Selecione o ícone de letra <img src="/assets/texto.png" width="18"> disponível na barra esquerda do projeto
