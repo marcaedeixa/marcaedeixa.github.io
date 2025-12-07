@@ -6,6 +6,10 @@ has_toc: false
 ---
 
 # Elementos
+{: .no_toc }
+
+## Sumário
+{: .no_toc .text-delta }
 
 1. [Canvas](https://marcaedeixa.github.io/elementos/canvas.htmll)
 2. [Formas](https://marcaedeixa.github.io/elementos/formas.html)
