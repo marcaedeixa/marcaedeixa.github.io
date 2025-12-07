@@ -6,6 +6,14 @@ nav_order: 4
 ---
 
 # Tamanho
+{: .no_toc }
+
+## Sumário
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 Todos os elementos (exceto o desenho com a caneta) podem ter seu tamanho modificado. 
 
 ## Modificando o tamanho do elemento
