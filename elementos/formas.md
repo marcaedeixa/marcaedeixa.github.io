@@ -38,46 +38,31 @@ Para mesclar formas deve-se selecionar as formas desejadas clicando com o botão
 ### União
 A ação de união mescla as formas selecionadas eliminando os contornos presentes na interseção e mantendo a cor do elemento na camada de trás. Isso pode ser feito com múltiplas formas.
 
-<img src="/assets/formaexemplo1.png" width="166">
-
-Antes
-
-<img src="/assets/formaexemplouniao.png" width="166">
-
-Depois
+| Antes                                             | Depois                                                |
+|:--------------------------------------------------|:------------------------------------------------------|
+| <img src="/assets/formaexemplo1.png" width="166"> | <img src="/assets/formaexemplouniao.png" width="166"> |
 
 ### Subtração
 A ação de subtração remove a forma da camada da frente e a interseção desta com a outra forma. Isso pode ser feito selecionando apenas duas formas por vez.
 
-<img src="/assets/formaexemplo1.png" width="166">
-
-Antes
-
-<img src="/assets/formaexemplosubtracao.png" width="166">
-
-Depois
+| Antes                                             | Depois                                                    |
+|:--------------------------------------------------|:----------------------------------------------------------|
+| <img src="/assets/formaexemplo1.png" width="166"> | <img src="/assets/formaexemplosubtracao.png" width="166"> |
 
 ### Interseção
 A ação de interseção mantém apenas a interseção das duas formas na cor da forma da camada de trás. Isso pode ser feito selecionando apenas duas formas por vez.
 
-<img src="/assets/formaexemplo1.png" width="166">
-
-Antes
-
-<img src="/assets/formaexemplointersecao.png" width="166">
-
-Depois
+| Antes                                             | Depois                                                     |
+|:--------------------------------------------------|:-----------------------------------------------------------|
+| <img src="/assets/formaexemplo1.png" width="166"> | <img src="/assets/formaexemplointersecao.png" width="166"> |
 
 ### Exclusão
 A ação de interseção exclui apenas a interseção das duas formas. Isso pode ser feito selecionando apenas duas formas por vez.
 
-<img src="/assets/formaexemplo1.png" width="166">
+| Antes                                             | Depois           |
+|:--------------------------------------------------|:-----------------|
+| <img src="/assets/formaexemplo1.png" width="166"> | ???????????????? |
 
-Antes
-
-????????????????
-
-Depois
 
 
 
