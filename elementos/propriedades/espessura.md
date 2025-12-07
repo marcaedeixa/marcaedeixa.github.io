@@ -6,6 +6,14 @@ nav_order: 3
 ---
 
 # Espessura
+{: .no_toc }
+
+## Sumário
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 Todos os elementos podem ter a espessura de sua borda modificada.
 
 ## Modificando a espessura do elemento
