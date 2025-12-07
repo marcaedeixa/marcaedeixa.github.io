@@ -33,10 +33,27 @@ As anotações <img src="/assets/anotacoes.png" width="18"> de cena são um espa
 As anotações de cena podem se editadas na seção correspondente na barra inferior do projeto
 
 ### Expandir e recolher anotações de cena
-Para expandir a seção de anotações, selecione a opção **^ Expandir** disponível na barra inferior do projeto. Para recolher a seção, selecione a opção **^ Recolher** disponível na barra inferior do projeto.
+Para expandir a seção de anotações, selecione a opção **Expandir** disponível na barra inferior do projeto. Para recolher a seção, selecione a opção **Recolher** disponível na barra inferior do projeto.
 
 ## Visualização de cenas
 
 ### Modo Slideshow
+O modo Slideshow executa uma apresentação das cenas em loop com duração pré-definida entre transições.
+
+#### Iniciar Slideshow
+{: .no_toc }
+Para iniciar a apresentação, selecione a opção **Slideshow** na barra inferior do projeto
+
+#### Pausar Slidewhow
+{: .no_toc }
+Para pausar a apresentação, selecione a opção **Pausar** na barra inferior do projeto
+
+#### Parar Slidewhow
+{: .no_toc }
+Para interromper a apresentação, selecione a opção **Parar** na barra inferior do projeto
+
+#### Modificar duração da cena no Slideshow
+{: .no_toc }
+Para modificar a duração <img src="/assets/duracao.png" width="18"> da cena no Slideshow, modifique a quantidade de segundos na barra inferior do projeto.
 
 ### Modo Slideshow em tela inteira
