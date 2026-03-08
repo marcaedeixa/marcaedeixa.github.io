@@ -36,6 +36,6 @@ Para renomear um projeto existente:
 1. Faça login na plataforma
 2. Acesse o Dashboard
 3. Passe o mouse sobre o nome do projeto
-4. Selecione o botão de edição
+4. Selecione o botão de edição <img src="/assets/editar.png" width="18">
 5. Altere o nome
-6. Selecione o botão de confirmação
+6. Selecione o botão de confirmação <img src="/assets/confirmacao.png" width="18">
