@@ -59,9 +59,9 @@ A ação de interseção <img src="/assets/intersecao.png" width="18"> mantém a
 ### Exclusão
 A ação de interseção <img src="/assets/exclusao.png" width="18"> exclui apenas a interseção das duas formas. Isso pode ser feito selecionando apenas duas formas por vez.
 
-| Antes                                             | Depois           |
-|:--------------------------------------------------|:-----------------|
-| <img src="/assets/formaexemplo1.png" width="166"> | ???????????????? |
+| Antes                                             | Depois                                                   |
+|:--------------------------------------------------|:---------------------------------------------------------|
+| <img src="/assets/formaexemplo1.png" width="166"> | <img src="/assets/formaexemploexclusao.png" width="166"> |
 
 
 
