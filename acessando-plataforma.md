@@ -14,11 +14,13 @@ nav_order: 3
 {:toc}
 
 ## Criar conta gratuita
-Acesse a página [marcaedeixa.com](https://marcaedeixa.com)
-Selecione **Começar agora**
-Selecione **Não tem uma conta? Cadastre-se**
-Insira seu nome completo, email e senha
-Selecione **Criar conta**
+1. Acesse a página [marcaedeixa.com](https://marcaedeixa.com)
+2. Selecione **Começar agora**
+3. Selecione **Não tem uma conta? Cadastre-se**
+4. Insira seu nome completo, email e senha
+5. Selecione **Criar conta**
+6. Selecione **Confirmar email** na mensagem recebida na caixa de entrada do email informado na criação da conta (caso não tenha recebido, verifique na caixa de spam)
+7. Faça login
 
 ## Adquirir plano PRO
 
